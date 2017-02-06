@@ -1,4 +1,5 @@
 
+#React-ajax
 
 In the project directory, you can run:
 
@@ -29,3 +30,9 @@ See the section about [deployment](#deployment) for more information.
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
+-----------------------------------------------------------
+### `Demo`
+use surge.sh<br>
+dataAPI : [jsonplaceholder](https://jsonplaceholder.typicode.com/)
+
+Open [https://gadokkwon.surge.sh/](https://gadokkwon.surge.sh/) to view it in the browser.
